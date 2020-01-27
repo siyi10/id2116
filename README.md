@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Your Name</title>
+  <title>Li Si Yi</title>
 </head>
 <body>
    <h1>Hi My name is *****</h1>
@@ -17,7 +17,7 @@
       <li>Strength04</li>
     </ul>
 
-   <h2>My Teammate is</h2>
+   <h2>My Teammate is</Daryl Pong>
    <p><a href="yourteamate.html">YOUR TEAMMATE</a></p>
 </body>
 
