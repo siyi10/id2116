@@ -6,7 +6,7 @@
   <title>Li Si Yi</title>
 </head>
 <body>
-   <h1>Hi My name is *****</h1>
+   <h1>Hi My name is Li Si Yi</h1>
    <p>add your profile text here</p>
 
    <h2>My strengthes as a designer are...</h2>
