@@ -19,8 +19,8 @@
       <li>Strength04</li>
     </ul>
 
-   <h2>My Teammate is</Daryl Pong>
-   <p><a href="https://kroses13.github.io/id2116/">YOUR TEAMMATE</a></p>
+   <h2>My Teammate is 
+   <p><a href="https://kroses13.github.io/id2116/">Daryl Pong</a></p>
 </body>
 
 </html>
