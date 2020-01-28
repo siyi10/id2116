@@ -9,6 +9,10 @@
 <body style="background-color:#000000;">
    <h1>Hi My name is Li Si Yi</h1>
     <img src="self portrait .jpg" alt="short description" width="300"/>  
+    
+<div class="box red"></div>
+<div class="box green"> </div>
+<div class="box blue"> </div>
 
    <p>add your profile text here</p>
 
