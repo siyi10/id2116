@@ -6,7 +6,7 @@
   <title>Li Si Yi</title>
 </head>
 <body>
-<body style="background-color:#000000;">
+<body style="background-color:#FFFFFF;">
 
 <div>Test</div>
 <div{
