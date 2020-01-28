@@ -7,7 +7,7 @@
 </head>
 <body>
    <h1>Hi My name is Li Si Yi</h1>
-    <img src="photo6159200819107440898.jpg" alt="short description" width="400"/>  
+    <img src="photo6159200819107440898.jpg" alt="short description" width="10"/>  
 
    <p>add your profile text here</p>
 
