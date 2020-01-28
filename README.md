@@ -16,6 +16,7 @@
       <li>Strength03</li>
       <li>Strength04</li>
     </ul>
+    <img src="photo6159200819107440898.jpg" alt="short description" 
 
    <h2>My Teammate is</Daryl Pong>
    <p><a href="yourteamate.html">YOUR TEAMMATE</a></p>
