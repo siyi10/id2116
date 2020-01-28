@@ -6,7 +6,7 @@
   <title>Li Si Yi</title>
 </head>
 <body>
-<body style="background-color:powderblue;">
+<body style="background-color:#000000;">
    <h1>Hi My name is Li Si Yi</h1>
     <img src="photo6159200819107440898.jpg" alt="short description" width="300"/>  
 
