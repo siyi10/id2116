@@ -1,12 +1,12 @@
 
  <!DOCTYPE html>
 <html lang="en">
-<body style="background-color:powderblue;">
 <head>
   <meta charset="utf-8">
   <title>Li Si Yi</title>
 </head>
 <body>
+<body style="background-color:powderblue;">
    <h1>Hi My name is Li Si Yi</h1>
     <img src="photo6159200819107440898.jpg" alt="short description" width="300"/>  
 
