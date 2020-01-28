@@ -9,9 +9,8 @@
 <body style="background-color:#FFFFFF;">
 
 <div>Test</div>
-<div{
-  Background-color:#ff0000;
-}
+  <div{
+    Background-color:#ff0000;}
 
    <h1>Hi My name is Li Si Yi</h1>
     <img src="self portrait .jpg" alt="short description" width="300"/>  
