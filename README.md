@@ -7,6 +7,8 @@
 </head>
 <body>
    <h1>Hi My name is Li Si Yi</h1>
+    <img src="photo6159200819107440898.jpg" alt="short description"  
+    
    <p>add your profile text here</p>
 
    <h2>My strengthes as a designer are...</h2>
@@ -16,7 +18,6 @@
       <li>Strength03</li>
       <li>Strength04</li>
     </ul>
-    <img src="photo6159200819107440898.jpg" alt="short description" 
 
    <h2>My Teammate is</Daryl Pong>
    <p><a href="yourteamate.html">YOUR TEAMMATE</a></p>
