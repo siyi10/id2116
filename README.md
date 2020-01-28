@@ -8,10 +8,9 @@
 <body>
 <body style="background-color:#FFFFFF;">
 
-<div>Test</div>
 <div class="input-color">
-    <input type="text" value="Orange" />
-    <div class="color-box" style="background-color: #FF850A;">
+    <input type="text" value="hello" />
+    <div class="color-box" style="background-color:#FF850A;">
 </div>
 
    <h1>Hi My name is Li Si Yi</h1>
