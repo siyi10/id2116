@@ -13,6 +13,14 @@
     <div class="color-box" style="background-color:#FF850A;" width="200">
 </div>
 
+<Style>
+.color-box {
+  Background-color:#FF850A;
+  width: 100;
+  height: 100;
+}
+</style>
+
    <h1>Hi My name is Li Si Yi</h1>
     <img src="self portrait .jpg" alt="short description" width="300"/>  
 
