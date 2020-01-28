@@ -1,6 +1,7 @@
 
  <!DOCTYPE html>
 <html lang="en">
+<body style="background-color:powderblue;">
 <head>
   <meta charset="utf-8">
   <title>Li Si Yi</title>
