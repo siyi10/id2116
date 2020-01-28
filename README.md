@@ -10,7 +10,7 @@
 
 <div class="input-color">
     <input type="text" value="hello" />
-    <div class="color-box" style="background-color:#FF850A;">
+    <div class="color-box" style="background-color:#FF850A;" width="200">
 </div>
 
    <h1>Hi My name is Li Si Yi</h1>
