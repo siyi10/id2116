@@ -22,7 +22,7 @@
 </style>
 
    <h1>Hi My name is Li Si Yi</h1>
-    <img src="self portrait .jpg" alt="short description" width="300"/>  
+    <img src="black self portrait.jpg" alt="short description" width="300"/>  
 
    <p>add your profile text here</p>
 
