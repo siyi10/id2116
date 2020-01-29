@@ -10,7 +10,7 @@
 
 <div class="input-color">
     <input type="text" value="hello" />
-    <div class="color-box" style="background-color:#FFFFFF;" width="200">
+    <div class="color-box" style="background-color:#000000;" width="200">
 </div>
 
 <Style>
