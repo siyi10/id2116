@@ -5,6 +5,9 @@ function myFunction() {
 
    var image = document.getElementById('image');
    image.classList.toggle('hidden');
+
+   var href = document.getElementById("link");
+   href.toggle('visible')
  }
 
  
