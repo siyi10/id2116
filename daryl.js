@@ -7,7 +7,7 @@ function myFunction() {
    image.classList.toggle('hidden');
 
    var href = document.getElementById("link");
-   href.toggle('visible')
+   href.style.display = 'block';
  }
 
  

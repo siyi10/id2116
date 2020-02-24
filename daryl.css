@@ -15,3 +15,10 @@ body {
   .hidden {
     display: none;
   }
+  
+  .btn-ghost-dark {
+    color: #636f83;
+    background-color: transparent;
+    background-image: none;
+    border-color: transparent;
+}
