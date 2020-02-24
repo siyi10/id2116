@@ -8,10 +8,10 @@ body {
 .dark-mode {
     background-color: black;
     color: white;
+    margin: 0;
+    height: 100%;
   }
   
   .hidden {
     display: none;
   }
-
-  con
