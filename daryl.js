@@ -1,6 +1,6 @@
 
 var i = 0;
-var txt = 'Roses are red\nViolets are blue\nCoding is awesome\nAnd so are you';
+var txt = 'Roses are red. Violets are blue. Coding is awesome. And so are you';
 var speed = 50;
 
 function myFunction() {
