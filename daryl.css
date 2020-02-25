@@ -8,14 +8,17 @@ body {
 .dark-mode {
     background-color: black;
     color: white;
-    margin: 0;
+    margin: 0 auto;
     height: 100%;
+    width: 100%;
+    fill: black;
+    
   }
   
   .hidden {
     display: none;
   }
-  
+
   .btn-ghost-dark {
     color: #636f83;
     background-color: transparent;
