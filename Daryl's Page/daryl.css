@@ -19,8 +19,8 @@ body {
     display: none;
   }
 
-  .btn-ghost-dark {
-    color: #636f83;
+  .button {
+    color: #2865cf;
     background-color: transparent;
     background-image: none;
     border-color: transparent;
