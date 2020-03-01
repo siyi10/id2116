@@ -5,6 +5,12 @@ body {
     font-size: 25px;
 }
 
+.btn {
+  color: #a33420;
+  background-color: transparent;
+  background-image: none;
+  border-color: transparent;
+}
 .dark-mode {
     background-color: black;
     color: white;
