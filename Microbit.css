@@ -1,0 +1,46 @@
+body {
+  margin: 1px;
+  font-family: Lucida Console, Monospace;
+
+}
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #90a6ab;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 6px 15px;
+  text-decoration: none;
+  font-size: px;
+}
+
+
+.topnav a:hover {
+  background-color: #cdb795;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #4f583e;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
