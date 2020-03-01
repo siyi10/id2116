@@ -4,11 +4,10 @@ body {
 
 }
 
-{
+.imagegrid{
     box-sizing: border-box;
   }
   
-
   .header {
     text-align: center;
     padding: 32px;
