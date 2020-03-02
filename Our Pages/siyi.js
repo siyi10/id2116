@@ -16,7 +16,7 @@ function myFunction() {
 txt.fontcolor( "white");
 
   if (i < txt.length) {
-    document.getElementById("firstp1").innerHTML += txt.charAt(i);
+    document.getElementById("firstp").innerHTML += txt.charAt(i);
     i++;
     setTimeout(myFunction, speed);
   }
